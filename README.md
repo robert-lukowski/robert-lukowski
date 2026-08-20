@@ -1,5 +1,5 @@
 <a href="https://github.com/robert-lukowski">
-  <img src="./assets/banner.svg" alt="Robert A. Lukowski — Platform Engineering, Cloud Automation and Agentic AI" width="100%" />
+  <img src="./assets/banner.svg" alt="Robert Lukowski — Platform Engineering, Cloud Automation and Agentic AI" width="100%" />
 </a>
 
 <div align="center">
@@ -23,7 +23,7 @@
 </div>
 
 ```yaml
-name:          Robert A. Lukowski
+name:          Robert Lukowski
 role:          Technical Engineer · Platform Engineering & Automation
 focus:         AWS · Agentic AI · Infrastructure as Code · Enterprise Automation
 building:      Secure cloud workflows that remove repetitive operational work
