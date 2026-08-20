@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 460" width="1500" height="460" role="img" aria-label="Robert A. Lukowski — Platform Engineering, Cloud Automation and Agentic AI">
-  <title>Robert A. Lukowski — Platform Engineering, Cloud Automation and Agentic AI</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 460" width="1500" height="460" role="img" aria-label="Robert Lukowski — Platform Engineering, Cloud Automation and Agentic AI">
+  <title>Robert Lukowski — Platform Engineering, Cloud Automation and Agentic AI</title>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -61,8 +61,8 @@
     </clipPath>
 
     <clipPath id="subtitleReveal">
-      <rect x="350" y="142" width="0" height="42">
-        <animate attributeName="width" from="0" to="800" dur="1.4s" begin="1.4s" fill="freeze"/>
+      <rect x="80" y="142" width="0" height="42">
+        <animate attributeName="width" from="0" to="1340" dur="1.4s" begin="1.4s" fill="freeze"/>
       </rect>
     </clipPath>
 
@@ -75,7 +75,7 @@
   <rect width="1500" height="460" rx="24" fill="url(#grid)"/>
 
   <g clip-path="url(#titleReveal)">
-    <text x="750" y="126" text-anchor="middle" fill="url(#titleGradient)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="4">ROBERT A. LUKOWSKI</text>
+    <text x="750" y="126" text-anchor="middle" fill="url(#titleGradient)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="4">ROBERT LUKOWSKI</text>
   </g>
 
   <g clip-path="url(#subtitleReveal)">
