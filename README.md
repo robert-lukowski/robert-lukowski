@@ -28,7 +28,6 @@ role:          Technical Engineer · Platform Engineering & Automation
 focus:         AWS · Agentic AI · Infrastructure as Code · Enterprise Automation
 building:      Secure cloud workflows that remove repetitive operational work
 current_stack: Amazon Bedrock · Amazon Connect · Terraform · GitHub Actions · ServiceNow
-inspiration:   Voyager 1 & 2 · engineering for the long journey
 languages:     Polish · German · English · Spanish
 location:      Wrocław, Poland
 principle:     Automate repetition. Keep humans in control.
@@ -37,6 +36,37 @@ principle:     Automate repetition. Keep humans in control.
 I build practical automation for real operational work: incident response, cloud platforms,
 contact-center workflows and secure AI-assisted support. I focus on strong guardrails, clear
 ownership and observable workflows that help people make better decisions.
+
+<br/>
+
+<img src="./assets/flow-divider.svg" width="100%" alt="" />
+
+<div align="center">
+  <h2>Inspiration</h2>
+  <sub>You may not know...</sub>
+</div>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><b>5 years</b><br/><sub>original design lifetime</sub></td>
+    <td width="25%" align="center"><b>49+ years</b><br/><sub>still operated from Earth</sub></td>
+    <td width="25%" align="center"><b>~24 hours</b><br/><sub>one-way signal to Voyager 1</sub></td>
+    <td width="25%" align="center"><b>~68 KB</b><br/><sub>memory across six computers</sub></td>
+  </tr>
+</table>
+
+Voyager 1 and 2 are a reminder of what resilient engineering can achieve. Built in the 1970s
+for a five-year mission, they are still being operated, diagnosed and reconfigured from Earth
+nearly half a century later. A command sent to Voyager 1 now travels almost a full day in one
+direction, yet the mission continues on computers with about 68 KB of combined memory.
+
+Whenever something seems impossible, I think about Voyager. It reminds me that great
+engineering is not about having the newest hardware. It is about clarity, resilience and the
+determination to keep a system useful far beyond its original plan.
+
+<sub>Facts: <a href="https://science.nasa.gov/mission/voyager/fact-sheet/">NASA Voyager Fact Sheet</a> · <a href="https://science.nasa.gov/mission/voyager/frequently-asked-questions/">NASA Voyager FAQ</a> · <a href="https://science.nasa.gov/mission/voyager/where-are-voyager-1-and-voyager-2-now/">NASA Mission Status</a></sub>
 
 <br/>
 
