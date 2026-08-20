@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 420" width="1500" height="420" role="img" aria-label="Robert A. Lukowski — Platform Engineering, Cloud Automation and Agentic AI">
+  <title>Robert A. Lukowski — Platform Engineering, Cloud Automation and Agentic AI</title>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.48" stop-color="#0b1f33">
+        <animate attributeName="stop-color" values="#0b1f33;#10203a;#082a2d;#0b1f33" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+
+    <radialGradient id="cyanGlow" cx="18%" cy="25%" r="62%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.28">
+        <animate attributeName="stop-opacity" values="0.18;0.38;0.18" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="greenGlow" cx="86%" cy="80%" r="62%">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.25">
+        <animate attributeName="stop-opacity" values="0.16;0.34;0.16" dur="8s" begin="-2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="titleGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="0.46" stop-color="#bae6fd"/>
+      <stop offset="0.76" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+
+    <linearGradient id="flowGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#38bdf8"/>
+      <stop offset="0.72" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#fbbf24" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#7dd3fc" stroke-width="0.6" opacity="0.08"/>
+    </pattern>
+
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="titleReveal">
+      <rect x="250" y="135" width="0" height="105">
+        <animate attributeName="width" from="0" to="1000" dur="1.8s" begin="0.35s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="subtitleReveal">
+      <rect x="360" y="245" width="0" height="48">
+        <animate attributeName="width" from="0" to="780" dur="1.5s" begin="1.55s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <path id="leftFlow" d="M55 315 C175 225 225 135 365 92"/>
+    <path id="rightFlow" d="M1445 95 C1330 135 1285 235 1130 330"/>
+  </defs>
+
+  <rect width="1500" height="420" rx="24" fill="url(#background)"/>
+  <rect width="1500" height="420" rx="24" fill="url(#cyanGlow)"/>
+  <rect width="1500" height="420" rx="24" fill="url(#greenGlow)"/>
+  <rect width="1500" height="420" rx="24" fill="url(#grid)"/>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M40 315 C165 235 230 120 375 82" stroke="#38bdf8" stroke-width="1.5" opacity="0.25"/>
+    <path d="M1460 88 C1325 125 1280 250 1120 340" stroke="#2dd4bf" stroke-width="1.5" opacity="0.25"/>
+    <path d="M140 365 C320 305 445 345 565 378" stroke="#38bdf8" stroke-width="1" opacity="0.16"/>
+    <path d="M1360 360 C1195 298 1080 340 950 380" stroke="#2dd4bf" stroke-width="1" opacity="0.16"/>
+  </g>
+
+  <g opacity="0.82">
+    <circle cx="82" cy="294" r="5" fill="#38bdf8" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="201" cy="207" r="4" fill="#7dd3fc">
+      <animate attributeName="opacity" values="1;0.25;1" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="322" cy="111" r="5" fill="#2dd4bf" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" begin="-1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1408" cy="105" r="5" fill="#fbbf24" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="4.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1303" cy="178" r="4" fill="#5eead4">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1185" cy="306" r="5" fill="#2dd4bf" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="5s" begin="-2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <circle r="3.5" fill="#e0f2fe">
+      <animateMotion dur="4.8s" repeatCount="indefinite"><mpath href="#leftFlow"/></animateMotion>
+    </circle>
+    <circle r="3.5" fill="#ccfbf1">
+      <animateMotion dur="5.4s" begin="-2.2s" repeatCount="indefinite"><mpath href="#rightFlow"/></animateMotion>
+    </circle>
+  </g>
+
+  <g transform="translate(750 88)" opacity="0.75">
+    <path d="M-49 18 C-46-2-31-16-12-16 C1-34 31-31 42-8 C61-6 72 7 72 23 C72 42 57 52 39 52 H-43 C-61 52-74 40-74 23 C-74 8-64-2-49-5" fill="none" stroke="#7dd3fc" stroke-width="2"/>
+    <path d="M-28 18 H28 M0-8 V42 M-18 31 L0 42 18 31" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="0" cy="-8" r="3" fill="#fbbf24">
+      <animate attributeName="r" values="2.5;5;2.5" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g clip-path="url(#titleReveal)">
+    <text x="750" y="220" text-anchor="middle" fill="url(#titleGradient)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="4">ROBERT A. LUKOWSKI</text>
+  </g>
+
+  <g clip-path="url(#subtitleReveal)">
+    <text x="750" y="278" text-anchor="middle" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="27" font-weight="500" letter-spacing="3">PLATFORM ENGINEERING · CLOUD AUTOMATION · AGENTIC AI</text>
+  </g>
+
+  <rect x="340" y="308" width="820" height="2" rx="1" fill="url(#flowGradient)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="750" y="358" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="3">SECURE  ·  AUTOMATED  ·  HUMAN-CONTROLLED</text>
+
+  <rect x="0.75" y="0.75" width="1498.5" height="418.5" rx="23.25" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity="0.22"/>
+</svg>
