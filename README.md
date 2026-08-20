@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/robert-lukowski/cockroach-agentic-memory">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=900&height=55&lines=Turning+repetitive+operations+into+reliable+systems;Building+secure%2C+human-controlled+AI+workflows;Inspired+by+Voyager+1+%26+2;Six+GitHub+certifications+and+still+learning" alt="Rotating professional tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=900&height=55&lines=Turning+repetitive+operations+into+reliable+systems;Building+secure%2C+human-controlled+AI+workflows;Shipping+secure+automation+from+commit+to+cloud;Six+GitHub+certifications+and+still+learning" alt="Rotating professional tagline" />
   </a>
 </div>
 
@@ -37,9 +37,6 @@ principle:     Automate repetition. Keep humans in control.
 I build practical automation for real operational work: incident response, cloud platforms,
 contact-center workflows and secure AI-assisted support. I focus on strong guardrails, clear
 ownership and observable workflows that help people make better decisions.
-
-**Voyager 1 and Voyager 2** are my engineering inspiration: systems built with clarity, resilience
-and enough foresight to remain useful far beyond their original mission.
 
 <br/>
 
@@ -154,8 +151,8 @@ and enough foresight to remain useful far beyond their original mission.
 <img src="./assets/flow-divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <h3>Engineering for the long journey.</h3>
-  <sub>Secure systems, useful automation and human-controlled AI.</sub>
+  <h3>Secure systems. Useful automation. Humans in control.</h3>
+  <sub>Building beyond the demo.</sub>
 </div>
 
 <br/>
