@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/robert-lukowski/cockroach-agentic-memory">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=900&height=55&lines=Turning+repetitive+operations+into+reliable+systems;Building+secure%2C+human-controlled+AI+workflows;From+Service+Desk+to+Platform+Engineering;Six+GitHub+certifications+and+still+learning" alt="Rotating professional tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=900&height=55&lines=Turning+repetitive+operations+into+reliable+systems;Building+secure%2C+human-controlled+AI+workflows;Inspired+by+Voyager+1+%26+2;Six+GitHub+certifications+and+still+learning" alt="Rotating professional tagline" />
   </a>
 </div>
 
@@ -28,19 +28,18 @@ role:          Technical Engineer · Platform Engineering & Automation
 focus:         AWS · Agentic AI · Infrastructure as Code · Enterprise Automation
 building:      Secure cloud workflows that remove repetitive operational work
 current_stack: Amazon Bedrock · Amazon Connect · Terraform · GitHub Actions · ServiceNow
-background:    Professional kitchens → Service Desk → Platform Engineering
+inspiration:   Voyager 1 & 2 · engineering for the long journey
 languages:     Polish · German · English · Spanish
 location:      Wrocław, Poland
 principle:     Automate repetition. Keep humans in control.
 ```
 
 I build practical automation for real operational work: incident response, cloud platforms,
-contact-center workflows and secure AI-assisted support. My path into technology was not the usual
-one — before IT, I spent **16 years in professional kitchens**. That background taught me to stay
-calm under pressure, design repeatable processes and improve systems while they are running.
+contact-center workflows and secure AI-assisted support. I focus on strong guardrails, clear
+ownership and observable workflows that help people make better decisions.
 
-Today I bring the same operational mindset to platform engineering: strong guardrails, clear
-ownership, observable workflows and automation that helps people make better decisions.
+**Voyager 1 and Voyager 2** are my engineering inspiration: systems built with clarity, resilience
+and enough foresight to remain useful far beyond their original mission.
 
 <br/>
 
@@ -72,10 +71,10 @@ ownership, observable workflows and automation that helps people make better dec
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ <a href="https://github.com/robert-lukowski/cloudops-agent">CloudOps Agent</a></h3>
-      AI-assisted IT operations platform connecting ServiceNow, AWS and Microsoft Teams for knowledge suggestions, incident insights and guarded automation workflows.
+      <h3>📡 <a href="https://github.com/robert-lukowski/hybrid-connectivity">Hybrid Connectivity Hub</a></h3>
+      An autonomous edge communication node combining satellite packet reception with long-range LoRa mesh networking and automated telemetry pipelines.
       <br/><br/>
-      <sub><b>Amazon Bedrock · Lambda · DynamoDB · API Gateway · ServiceNow</b></sub>
+      <sub><b>Linux · TinyGS · Meshtastic · LoRa · Edge Computing · GitHub</b></sub>
     </td>
     <td width="50%" valign="top">
       <h3>⏱️ <a href="https://github.com/robert-lukowski/credential-expiry-reminder">Credential Expiry Reminder</a></h3>
@@ -155,8 +154,8 @@ ownership, observable workflows and automation that helps people make better dec
 <img src="./assets/flow-divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <h3>From service desk to platform engineering — one automated workflow at a time.</h3>
-  <sub>Building secure systems that are useful beyond the demo.</sub>
+  <h3>Engineering for the long journey.</h3>
+  <sub>Secure systems, useful automation and human-controlled AI.</sub>
 </div>
 
 <br/>
