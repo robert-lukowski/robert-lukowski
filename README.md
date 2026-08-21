@@ -1,10 +1,10 @@
 <a href="https://github.com/robert-lukowski">
-  <img src="./assets/banner.svg" alt="Robert A. Lukowski — Platform Engineering, Cloud Automation and Agentic AI" width="100%" />
+  <img src="./assets/banner.svg" alt="Robert Lukowski — Platform Engineering, Cloud Automation and Agentic AI" width="100%" />
 </a>
 
 <div align="center">
   <a href="https://github.com/robert-lukowski/cockroach-agentic-memory">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=900&height=55&lines=Turning+repetitive+operations+into+reliable+systems;Building+secure%2C+human-controlled+AI+workflows;Inspired+by+Voyager+1+%26+2;Six+GitHub+certifications+and+still+learning" alt="Rotating professional tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=900&height=55&lines=Turning+repetitive+operations+into+reliable+systems;Building+secure%2C+human-controlled+AI+workflows;Shipping+secure+automation+from+commit+to+cloud;Six+GitHub+certifications+and+still+learning" alt="Rotating professional tagline" />
   </a>
 </div>
 
@@ -23,12 +23,11 @@
 </div>
 
 ```yaml
-name:          Robert A. Lukowski
+name:          Robert Lukowski
 role:          Technical Engineer · Platform Engineering & Automation
 focus:         AWS · Agentic AI · Infrastructure as Code · Enterprise Automation
 building:      Secure cloud workflows that remove repetitive operational work
 current_stack: Amazon Bedrock · Amazon Connect · Terraform · GitHub Actions · ServiceNow
-inspiration:   Voyager 1 & 2 · engineering for the long journey
 languages:     Polish · German · English · Spanish
 location:      Wrocław, Poland
 principle:     Automate repetition. Keep humans in control.
@@ -38,8 +37,36 @@ I build practical automation for real operational work: incident response, cloud
 contact-center workflows and secure AI-assisted support. I focus on strong guardrails, clear
 ownership and observable workflows that help people make better decisions.
 
-**Voyager 1 and Voyager 2** are my engineering inspiration: systems built with clarity, resilience
-and enough foresight to remain useful far beyond their original mission.
+<br/>
+
+<img src="./assets/flow-divider.svg" width="100%" alt="" />
+
+<div align="center">
+  <h2>Inspiration</h2>
+  <sub>You may not know...</sub>
+</div>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><b>5 years</b><br/><sub>original design lifetime</sub></td>
+    <td width="25%" align="center"><b>49+ years</b><br/><sub>still operated from Earth</sub></td>
+    <td width="25%" align="center"><b>~24 hours</b><br/><sub>one-way signal to Voyager 1</sub></td>
+    <td width="25%" align="center"><b>~68 KB</b><br/><sub>memory across six computers</sub></td>
+  </tr>
+</table>
+
+Voyager 1 and 2 are a reminder of what resilient engineering can achieve. Built in the 1970s
+for a five-year mission, they are still being operated, diagnosed and reconfigured from Earth
+nearly half a century later. A command sent to Voyager 1 now travels almost a full day in one
+direction, yet the mission continues on computers with about 68 KB of combined memory.
+
+Whenever something seems impossible, I think about Voyager. It reminds me that great
+engineering is not about having the newest hardware. It is about clarity, resilience and the
+determination to keep a system useful far beyond its original plan.
+
+<sub>Facts: <a href="https://science.nasa.gov/mission/voyager/fact-sheet/">NASA Voyager Fact Sheet</a> · <a href="https://science.nasa.gov/mission/voyager/frequently-asked-questions/">NASA Voyager FAQ</a> · <a href="https://science.nasa.gov/mission/voyager/where-are-voyager-1-and-voyager-2-now/">NASA Mission Status</a></sub>
 
 <br/>
 
@@ -154,8 +181,8 @@ and enough foresight to remain useful far beyond their original mission.
 <img src="./assets/flow-divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <h3>Engineering for the long journey.</h3>
-  <sub>Secure systems, useful automation and human-controlled AI.</sub>
+  <h3>Secure systems. Useful automation. Humans in control.</h3>
+  <sub>Building beyond the demo.</sub>
 </div>
 
 <br/>
